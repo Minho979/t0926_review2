@@ -1,5 +1,5 @@
 package t0926;
-
+//
 public class Hello {
     String msg = "hello";
 
